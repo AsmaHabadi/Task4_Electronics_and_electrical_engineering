@@ -12,4 +12,4 @@ In these circuit we use these components:
 1. 1 H-bridge motor driver
 1. Normal wires
 
-![picture](Task4_ElectronicsEngineering_CIRCUIT.png)
+![picture](Task4_Electronics_Engineering_CIRCUIT.png)
