@@ -6,10 +6,10 @@ In this task, a motor with encoder will be started and controlled, so that it st
 ## **Circuit**
 
 In these circuit we use these components:
-1. 1 Arduino boards
+1. 1 Arduino board
 1. 1 Breadboard 
 1. 1 DC motor with encoder
 1. 1 H-bridge motor driver
 1. Normal wires
 
-![picture](Task4_Electronics Engineering_CIRCUIT)
+![picture](Task4_Electronics Engineering_CIRCUIT.png)
